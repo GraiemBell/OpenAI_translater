@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -60,8 +60,8 @@ dependencies:
     specifier: ^1.8.2
     version: 1.8.2
   date-fns:
-    specifier: ^2.29.3
-    version: 2.29.3
+    specifier: ^3.0.6
+    version: 3.0.6
   dayjs:
     specifier: ^1.11.10
     version: 1.11.10
@@ -3015,6 +3015,10 @@ packages:
   /date-fns@2.29.3:
     resolution: {integrity: sha512-dDCnyH2WnnKusqvZZ6+jA1O51Ibt8ZMRNkDZdyAyK4YfbDwa/cEmuztzG5pk6hqlp9aSBPYcjOlktquahGwGeA==}
     engines: {node: '>=0.11'}
+    dev: false
+
+  /date-fns@3.0.6:
+    resolution: {integrity: sha512-W+G99rycpKMMF2/YD064b2lE7jJGUe+EjOES7Q8BIGY8sbNdbgcs9XFTZwvzc9Jx1f3k7LB7gZaZa7f8Agzljg==}
     dev: false
 
   /dayjs@1.11.10:
